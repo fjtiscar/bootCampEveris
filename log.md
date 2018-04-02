@@ -1,5 +1,5 @@
-#fichero de cambios
+# fichero de cambios
 
-## Versión 1.0.0
+## VersiÃ³n 1.0.0
 
-Añadidos nuevos ficheros
+AÃ±adidos nuevos ficheros
